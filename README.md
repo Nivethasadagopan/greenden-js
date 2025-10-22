@@ -13,4 +13,4 @@ This is a redesigned version of the original **GreenedenJS** project, featuring 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+
